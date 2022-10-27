@@ -25,7 +25,7 @@ function App() {
         </ul>
       </header>
       <Routes>
-        <Route path="/" exact element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/contacts" element={<Contacts />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/publications" element={<Publications />} />

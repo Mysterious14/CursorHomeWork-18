@@ -1,0 +1,29 @@
+.Сontacts {
+  width: 300px;
+  margin-left: 600px;
+  margin-top: 50px;
+  border-radius: 50px;
+  background-color: black;
+  color: blanchedalmond;
+  border: solid green;
+}
+
+ul {
+  list-style-type: none;
+  display: list-item;
+}
+.Contant-Info {
+  font-size: 18px;
+}
+input {
+  border-radius: 10px;
+  height: 20px;
+  font-size: 16px;
+  width: 150px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+hr {
+  width: 200px;
+  margin-left: 0;
+}

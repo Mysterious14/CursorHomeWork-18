@@ -1,0 +1,59 @@
+.post {
+  display: flex;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+#authotPhoto {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+  margin: 15px;
+}
+#nameAuthor {
+  font-size: 25px;
+  font-weight: bold;
+}
+.verified {
+  height: 20px;
+  width: 20px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+.nickname,
+.date {
+  padding-top: 10px;
+  padding-left: 15px;
+  font-size: 20px;
+  color: cadetblue;
+}
+
+.content {
+  position: absolute;
+  margin-top: 70px;
+  padding-left: 100px;
+  font-size: 30px;
+  font-weight: bold;
+}
+#image {
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 100px;
+  height: 400px;
+  width: 500;
+  border-radius: 20px;
+}
+
+.icons {
+  position: absolute;
+  display: flex;
+  margin-left: 150px;
+
+  margin-top: 540px;
+  font-size: 20px;
+}
+.icon {
+  color: cadetblue;
+  margin-right: 160px;
+  font-size: 15px;
+}

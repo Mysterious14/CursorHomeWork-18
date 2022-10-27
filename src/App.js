@@ -11,16 +11,16 @@ function App() {
       <header>
         <ul className="header">
           <li>
-            <a href="/">Home</a>
+            <Link to="/">Home</Link>
           </li>
           <li>
-            <a href="/gallery">Gallery</a>
+            <Link to="/gallery">Gallery</Link>
           </li>
           <li>
-            <a href="/contacts">Contacts</a>
+            <Link to="/contacts">Contacts</Link>
           </li>
           <li>
-            <a href="/publications">Publications</a>
+            <Link to="/publications">Publications</Link>
           </li>
         </ul>
       </header>
